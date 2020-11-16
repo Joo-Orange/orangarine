@@ -1,4 +1,4 @@
-#  CQU Python Programming Exercise
+#  CQU Python Programming Assignments
 
 Very Basic.
 Assignments and experiments of Foundamental Programming Course(Python) in undergraduate first-year.
