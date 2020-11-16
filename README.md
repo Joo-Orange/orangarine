@@ -1,11 +1,12 @@
 #  CQU Python Programming Exercise
 
 Very Basic.
-Assignments and experiments in undergraduate first-year.
+Assignments and experiments of Foundamental Programming Course(Python) in undergraduate first-year.
+
 
 ## Intro to Each Experiments
 
-### Experiment No.2: Data Visualization1
+### Experiment No.2: Data Visualization
 1. 学习pip的安装和使用，利用pip安装matplotlib、scipy、numpy库。
 2. 学习matplotlib库的使用，用matplotlib绘制函数f(x)=x^2+2x+1在区间x∈[-5,5]的函数图像。
 3. 从co2-mm-mlo.csv中读取数据，以Date作为横坐标，在一张图上绘制Interpolated和Trend的折线图。
