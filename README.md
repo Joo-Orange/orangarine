@@ -4,7 +4,7 @@ Very Basic.
 Assignments and experiments of Foundamental Programming Course(Python) in undergraduate first-year.
 
 
-## Intro to Each Experiments
+## What Included
 
 ### Experiment No.2: Data Visualization
 1. 学习pip的安装和使用，利用pip安装matplotlib、scipy、numpy库。
@@ -36,8 +36,8 @@ Assignments and experiments of Foundamental Programming Course(Python) in underg
 7. 输入一位用户，输出输出推荐电影；
 8. 程序界面请自行设计，命令行、GUI、网页、手机App均可。
 
-## Python Exercise Docx
-Python exercises OJ(PTA, Zhejiang University) homework, collection.
+### Python Exercise Docx
+Python exercises OJ(PTA, Zhejiang University) homework, collection. By Derrick Zhu.
 
 
 
