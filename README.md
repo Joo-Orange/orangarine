@@ -1,4 +1,4 @@
-# Python Programming Exercise
+#  CQU Python Programming Exercise
 
 Very Basic.
 Assignments and experiments in undergraduate first-year.
